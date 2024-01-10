@@ -435,7 +435,7 @@ var cnItems = {
     "When resetting, all Tiers rewards will be recalculated to the current scale": "重置时，所有等级奖励将重新计算至当前规模",
     "When Threat reaches 100%, G.A.I.A will take control over the System, blocking access to it": "当威胁达到 100% 时，G.A.I.A 将控制系统，阻止对其的访问",
     "World map will be implemented in next updates": "世界地图将在下次更新中实现",
-    "": "",
+    "Registering new user into the": "注册新用户进入",
     "": "",
     "": "",
     "": "",
