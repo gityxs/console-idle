@@ -71,9 +71,7 @@ function addMissingKeys(original, game) {
 }
 var CGEnvironment;
 var in_ad;
-generate_ad_gift(){
-	
-}
+function generate_ad_gift() {}
 /*
 */
 function removeExtraKeys(original, game) {
